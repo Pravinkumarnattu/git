@@ -1,9 +1,3 @@
-This is main branch
 
-Git hub
+# This is bug branch
 
-
-
-# This is feature branch
-
-new 
