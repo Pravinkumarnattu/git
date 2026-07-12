@@ -16,3 +16,5 @@
 # This is non priority task - not completed
 
 # This some more inportant than new feature - completed
+
+# This is new feature - completed
